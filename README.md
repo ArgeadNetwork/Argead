@@ -4,7 +4,7 @@ Argead Core integration/staging tree
 What is Argead?
 ----------------
 
-Argead is an experimental digital currency that enables instant payments to
+Argead is a digital currency that enables instant payments to
 anyone, anywhere in the world. Argead uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Argead Core is the name of open source
